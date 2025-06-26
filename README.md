@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+building+tech+that+matters.;Always+curious+%26+exploring+new+tools.;Passionate+about+Web+Dev+%26+Cloud." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+building+tech+that+matters.;Always+curious+%26+exploring+new+tools.;Passionate+about+Web+Dev+%26." alt="Typing SVG" />
 </p>
 
 ---
