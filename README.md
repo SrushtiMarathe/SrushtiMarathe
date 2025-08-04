@@ -1,61 +1,80 @@
-# 👋 Hi there, I'm Hiral Bhalkar!
-
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. I enjoy building innovative solutions, solving real-world problems with code, and collaborating with developers around the world.
-
----
-
-## 💻 About Me
-
-- 🎓 I'm a [Your Title or Role] based in [City/Country].
-- 🌱 Currently exploring **[Latest Tech or Concept You're Learning]**
-- 💡 Always eager to learn and take on new challenges.
-- 🤝 Looking to collaborate on **open-source**, **dev tools**, and **real-world projects**.
-
----
-
-## 🛠️ Tech Stack
-
-| Domain            | Tools & Technologies |
-|-------------------|----------------------|
-| **Languages**     | Python, JavaScript, TypeScript, Java, C++ |
-| **Web**           | HTML, CSS, React, Node.js, Express |
-| **Mobile**        | React Native, Flutter (if applicable) |
-| **Database**      | MySQL, MongoDB, Firebase |
-| **DevOps & Cloud**| GitHub Actions, Docker, AWS, Netlify |
-| **Tools**         | Git, VS Code, Postman, Figma |
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Hiral Bhalkar</h1>
+<h3 align="center">Engineer • Developer • Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiralbhalkar&show_icons=true&theme=radical" alt="Hiral's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiralbhalkar&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralbhalkar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Code.+Create.+Collaborate.;Engineer+with+a+builder's+mindset.;Let's+make+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+### 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiralbhalkar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiralbhalkar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hiralbhalkar.dev) <!-- update with real URL -->
-[![Email](https://img.shields.io/badge/Email-hiralbhalkar%40email.com-red?style=for-the-badge)](mailto:hiralbhalkar@email.com)
+Hi there! I'm **Hiral**, an engineer who loves building thoughtful, impactful software. I enjoy working across the stack, experimenting with new technologies, and crafting solutions that matter. From tinkering with code to deploying scalable applications — I'm all in. 💻✨
 
----
-
-## 📝 Recent Projects
-
-- 🔧 **[Project Name]** — Brief one-liner about what it does.
-- 🔧 **[Another Project]** — Description or highlight.
-- 🔧 **[Open Source Contribution]** — Project or issue contributed to.
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+- 🎯 Focused on **user-first engineering** and **clean code**
+- 🌱 Currently diving into **[your latest interest e.g., Web3, AI/ML, DevOps, etc.]**
+- 🤝 Open to collaboration and contributions – let’s build something together!
+- 🌐 Exploring open-source, product design, and engineering leadership
 
 ---
 
-⭐️ Thanks for visiting! Feel free to explore my repos and drop a ⭐️ if you find something cool!
+### 🧰 Tech Toolbox
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,docker,mysql,mongodb,git,github,figma,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiralbhalkar&show_icons=true&theme=tokyonight&hide_border=true" alt="Hiral's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiralbhalkar&theme=tokyonight&hide_border=true" alt="Hiral's GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralbhalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Projects in Motion
+
+Here are a few things I've been working on lately:
+
+- 🔧 **[Project One](#)** – Brief description, tech stack, purpose
+- 🌍 **[Open Source Contribution](#)** – Project name, PR/issue, contribution summary
+- 📱 **[Personal Tool / App](#)** – Why I built it and how it helps
+
+---
+
+### 🌐 Let’s Connect
+
+Let’s talk code, coffee, or collaboration:
+
+<p>
+  <a href="https://linkedin.com/in/hiralbhalkar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/hiralbhalkar" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:hiralbhalkar@email.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hiralbhalkar.dev" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> “Software is a great combination of artistry and engineering.” – Bill Gates
+
+Sometimes I debug with coffee ☕, sometimes with a walk 🌳, and always with curiosity.
+
+---
+
+<p align="center">Thanks for stopping by! ⭐️ Let’s build, learn, and grow together.</p>
