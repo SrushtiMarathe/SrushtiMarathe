@@ -1,71 +1,61 @@
-<h1 align="center">Hi 👋, I'm Srushti</h1>
-<h3 align="center">💻 Computer Engineering Student | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
+# 👋 Hi there, I'm Hiral Bhalkar!
+
+Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. I enjoy building innovative solutions, solving real-world problems with code, and collaborating with developers around the world.
+
+---
+
+## 💻 About Me
+
+- 🎓 I'm a [Your Title or Role] based in [City/Country].
+- 🌱 Currently exploring **[Latest Tech or Concept You're Learning]**
+- 💡 Always eager to learn and take on new challenges.
+- 🤝 Looking to collaborate on **open-source**, **dev tools**, and **real-world projects**.
+
+---
+
+## 🛠️ Tech Stack
+
+| Domain            | Tools & Technologies |
+|-------------------|----------------------|
+| **Languages**     | Python, JavaScript, TypeScript, Java, C++ |
+| **Web**           | HTML, CSS, React, Node.js, Express |
+| **Mobile**        | React Native, Flutter (if applicable) |
+| **Database**      | MySQL, MongoDB, Firebase |
+| **DevOps & Cloud**| GitHub Actions, Docker, AWS, Netlify |
+| **Tools**         | Git, VS Code, Postman, Figma |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+building+tech+that+matters.;Always+curious+%26+exploring+new+tools.;Passionate+about+Web+Dev+%26." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiralbhalkar&show_icons=true&theme=radical" alt="Hiral's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiralbhalkar&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralbhalkar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌟 About Me
+## 📫 Connect with Me
 
-- 🎓 I'm currently pursuing **Computer Engineering**
-- 🛠️ I love working on **Web Development**, **AI**, and **Frontend**
-- 🌐 Passionate about learning new **technologies** and contributing to **Open Source**
-- 🧩 Enjoy solving problems with **C, Java, and Python**
-- 🗂️ Open to internships, collaborations, and project opportunities
-
----
-
-### 🛠️ My Skills
-
-#### 💡 Languages & Programming
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql)
-
-#### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-
-#### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![PLSQL](https://img.shields.io/badge/-PLSQL-F80000?style=flat-square&logo=oracle)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hiralbhalkar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hiralbhalkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hiralbhalkar.dev) <!-- update with real URL -->
+[![Email](https://img.shields.io/badge/Email-hiralbhalkar%40email.com-red?style=for-the-badge)](mailto:hiralbhalkar@email.com)
 
 ---
 
-### 📂 Featured Projects
+## 📝 Recent Projects
 
-- 🔍 **Resume ATS Checker**  
-  A smart tool to evaluate resume quality, grammar, and job match using Flask, PyMuPDF, and JavaScript.
+- 🔧 **[Project Name]** — Brief one-liner about what it does.
+- 🔧 **[Another Project]** — Description or highlight.
+- 🔧 **[Open Source Contribution]** — Project or issue contributed to.
 
-- 👶 **Baby Name Suggestor Tool**  
-  Suggests names based on gender, religion, origin, and initials. Built with HTML, JS & JSON dataset.
-
-- 🧠 **Multi-Document Semantic Analyzer**  
-  Combines Genetic Algorithms & Binary PSO to solve Hindi document clustering and summarization.
-
-- 🎮 **Fun Mini-Games Collection**  
-  Includes Memory Match, Snake, 2048, Coin Flip, and more with attractive JS-based interfaces.
-
-> 🔗 [Explore all my repositories](https://github.com/SrushtiMarathe?tab=repositories)
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
 
-### 🤝 Let's Connect!
-
-<p align="left">
-  <a href="mailto:srush44355@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-> ⚡ *“The best way to predict the future is to invent it.”*  
-> Thanks for visiting my profile! If you like what you see, feel free to ⭐ my repositories or reach out!
+⭐️ Thanks for visiting! Feel free to explore my repos and drop a ⭐️ if you find something cool!
 
