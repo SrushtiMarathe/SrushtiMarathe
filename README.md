@@ -1,80 +1,72 @@
-<h1 align="center">Hi 👋, I'm Hiral Bhalkar</h1>
-<h3 align="center">Engineer • Developer • Tech Explorer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Srushti</h1>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Tech Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Code.+Create.+Collaborate.;Engineer+with+a+builder's+mindset.;Let's+make+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+building+tech+that+matters.;Always+curious+%26+exploring+new+tools.;Passionate+about+Web+Dev+%26." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 
-Hi there! I'm **Hiral**, an engineer who loves building thoughtful, impactful software. I enjoy working across the stack, experimenting with new technologies, and crafting solutions that matter. From tinkering with code to deploying scalable applications — I'm all in. 💻✨
-
-- 🎯 Focused on **user-first engineering** and **clean code**
-- 🌱 Currently diving into **[your latest interest e.g., Web3, AI/ML, DevOps, etc.]**
-- 🤝 Open to collaboration and contributions – let’s build something together!
-- 🌐 Exploring open-source, product design, and engineering leadership
+- 🎓 I'm currently pursuing **Computer Engineering**
+- 🛠️ I love working on **Web Development**, **AI**, and **Frontend**
+- 🌐 Passionate about learning new **technologies** and contributing to **Open Source**
+- 🧩 Enjoy solving problems with **C, Java, and Python**
+- 🗂️ Open to internships, collaborations, and project opportunities
 
 ---
 
-### 🧰 Tech Toolbox
+### 🛠️ My Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,docker,mysql,mongodb,git,github,figma,vscode" />
+#### 💡 Languages & Programming
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql)
+
+#### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+
+#### 🗄️ Databases & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![PLSQL](https://img.shields.io/badge/-PLSQL-F80000?style=flat-square&logo=oracle)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud)
+
+---
+
+### 📂 Featured Projects
+
+- 🔍 **Resume ATS Checker**  
+  A smart tool to evaluate resume quality, grammar, and job match using Flask, PyMuPDF, and JavaScript.
+
+- 👶 **Baby Name Suggestor Tool**  
+  Suggests names based on gender, religion, origin, and initials. Built with HTML, JS & JSON dataset.
+
+- 🧠 **Multi-Document Semantic Analyzer**  
+  Combines Genetic Algorithms & Binary PSO to solve Hindi document clustering and summarization.
+
+- 🎮 **Fun Mini-Games Collection**  
+  Includes Memory Match, Snake, 2048, Coin Flip, and more with attractive JS-based interfaces.
+
+> 🔗 [Explore all my repositories](https://github.com/SrushtiMarathe?tab=repositories)
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="left">
+  <a href="mailto:srush44355@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Insights
+> ⚡ *“The best way to predict the future is to invent it.”*  
+> Thanks for visiting my profile! If you like what you see, feel free to ⭐ my repositories or reach out!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiralbhalkar&show_icons=true&theme=tokyonight&hide_border=true" alt="Hiral's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiralbhalkar&theme=tokyonight&hide_border=true" alt="Hiral's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralbhalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
----
-
-### 🛠️ Projects in Motion
-
-Here are a few things I've been working on lately:
-
-- 🔧 **[Project One](#)** – Brief description, tech stack, purpose
-- 🌍 **[Open Source Contribution](#)** – Project name, PR/issue, contribution summary
-- 📱 **[Personal Tool / App](#)** – Why I built it and how it helps
-
----
-
-### 🌐 Let’s Connect
-
-Let’s talk code, coffee, or collaboration:
-
-<p>
-  <a href="https://linkedin.com/in/hiralbhalkar" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/hiralbhalkar" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:hiralbhalkar@email.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hiralbhalkar.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ✨ Fun Fact
-
-> “Software is a great combination of artistry and engineering.” – Bill Gates
-
-Sometimes I debug with coffee ☕, sometimes with a walk 🌳, and always with curiosity.
-
----
-
-<p align="center">Thanks for stopping by! ⭐️ Let’s build, learn, and grow together.</p>
